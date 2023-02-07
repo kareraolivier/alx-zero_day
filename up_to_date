@@ -1,0 +1,7 @@
+git add .
+git commit -m "first commit"
+git push
+git checkout -b "newbranch"
+git push --set-upstream origin update_script
+git checkout main
+git push
